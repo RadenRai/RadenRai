@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raden Raihan Ramadhan</h1>
-<h3 align="center">A passionate frontend developer and Data Analyst From Bandung City</h3>
+<h3 align="center">A passionate software engineering and machine learning developer from Bandung City</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radenrai&label=Profile%20views&color=0e75b6&style=flat" alt="radenrai" /> </p>
 
